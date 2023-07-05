@@ -11,7 +11,7 @@ title                    : "Latanya Khissy Beyniouah"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://latanya-ctrl11011.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "latanya-ctrl11011/latanya-ctrl11011.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Latanya Khissy Beyniouah"
-  avatar           : "profile.png"
+  avatar           : "profilepic.png"
   bio              : "Computer Science Student at Howard University"
   location         : "Washington,DC"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "latanya.khissybusinessmail@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
