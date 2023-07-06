@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Latanya Khissy Beyniouah"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Latanya Khissy Beyniouah"
 description              : &description "personal description"
 url                      : https://latanya-ctrl11011.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
