@@ -11,9 +11,9 @@ title                    : "Latanya Khissy Beyniouah"
 title_separator          : "-"
 name                     : &name "Latanya Khissy Beyniouah"
 description              : &description "personal description"
-url                      : https://latanya-ctrl11011.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://latanya-khissy-beyniouah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "latanya-ctrl11011/latanya-ctrl11011.github.io"
+repository               : "latanya-khissy-beyniouah/latanya-khissy-beyniouah.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Latanya Khissy Beyniouah"
-  avatar           : "profilepic.png"
-  bio              : "Computer Science Student at Howard University"
-  location         : "Washington,DC"
-  employer         :
+  avatar           : "headshot.JPG"
+  bio              : "Infrastructure Engineer and Howard University Alumna."
+  location         : "Las Vegas,NV"
+  employer         : "Credit One Bank"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "latanya.khissybeyniouah@gmail.com"
