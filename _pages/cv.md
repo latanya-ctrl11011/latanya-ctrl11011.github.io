@@ -15,22 +15,33 @@ Education
 
 Work experience
 ======
-* Summer 2023: Research Intern
+* June 2025 - Present: Infrastructure Engineer
+  * Credit One Bank
+    * Provisioned resources for the bank’s cloud infrastructure utilizing AWS and Terraform.
+    * Drove internal product development and compliance by conducting research for a new cloud documentation hosting tool, ensuring the solution met security and regulatory standards.
+    * Enhanced efficiency by gathering team feedback to identify key automation opportunities and developing a program to identify and rotate aging user credentials.
+
+* June 2024 - August 2024: Software Engineer Intern
+  * Wells Fargo
+    * Developed and optimized backend data storage solutions in MongoDB, improving data security and query efficiency in a financial services environment.
+    * Applied rapidly developed Java skills to conduct thorough code reviews for the Vasara pricing tool, ensuring code quality and adherence to best practices.
+    * Collaborated with cross-functional teams in an Agile environment, refining feature development and debugging API issues.
+
+* June 2023 - August 2023: Security Research Intern
   * UC San Diego, STARS
     * Conducted research on the role of privacy and security in android applications, employing a mixed methods approach involving policy analysis, and technical analysis.
     * Investigated software security mechanisms using Python and performed text and quantitative survey analysis using R and Python.
     * Maintained confidentiality of project details, providing additional information upon request to interested parties.
 
-* Fall 2023: Strategic Business Development Extern
+* February 2023 - April 2023: Strategic Business Development Extern
   * The Home Depot
-    * Gathered market research to discover startup company’s spearheading the home improvement industry
-    * Presented findings to company executives
+    * Conducted market research and user analysis to identify product expansion opportunities in the home improvement sector.
+    * Defined business requirements for potential integrations between The Home Depot and startup solutions, enhancing customer experience and digital strategy
 
-* Fall 2022: Research Assistant
+* Fall 2022: Undergraduate Research Intern
   * Microsoft
     * Selected to participate in a research program at Howard University for Microsoft focused on Generative Adversarial Networks
-    * Presented research findings bi-weekly to update my team on my progress.
-    * Implemented comprehension skills by summarizing assigned research papers and formulating potential research questions for the project.
+    * Summarized assigned research papers and created potential research questions, contributing to the project's direction and depth
 
   
 <!-- Skills
@@ -60,8 +71,13 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service and Leadership
+Leadership and Awards
 ======
+* Senior Capstone
+  * Scrum Master
+    *  Led the development of an AI-powered recommendation system using TensorFlow for machine learning, with Flutter and Figma for the user interface.
+    * Followed an Agile workflow to ensure a seamless integration between backend and frontend team members.
+
 * Tech for Change, Logistics Lead
   * Responsible for overseeing and creating event itineraries for Howard University’s Tech For Change Chapter.
   * Coordinate with vendors, sponsors, and volunteers to ensure successful execution of events and activities.
